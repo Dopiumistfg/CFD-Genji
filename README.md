@@ -1,7 +1,7 @@
 # CFD-Genji
 A 3-d Incompressible fluid flow simulation of Genji, A popular character from the game Overwatch
 
-[Video Demonstration](case/output.gif)
+![Video Demonstration](case/output.gif)
 
 # How it works
 To run this you will need
